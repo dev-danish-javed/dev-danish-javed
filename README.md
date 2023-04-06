@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a software engineer. <br>My profile is full stack developer.<br>I work on java, angular/react, mongoDB and SQL<br>I am currently learning react and AWS
+Hi, I am a Full-Stack Developer based in India.
+<br/><br/>
+I work on Java, Angular/React and MongoDB/MySQL.
+<br/>
+Currently, I am exploring AWS and React
 
 
 ## 🌐 Socials:
