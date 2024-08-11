@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am a Full-Stack Developer based in India. <br><br>I work with JAVA, Angular/React and MongoDB/MySQL.<br><br>Currently, I am exploring React and AWS.
+Hi, I am a Full-Stack Developer based in India. <br><br>I work with JAVA, Node, Angular/React and MongoDB/MySQL.<br><br>Currently, I am exploring React and AWS.
 
 
 ## 🌐 Socials:
