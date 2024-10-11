@@ -53,14 +53,14 @@ An application that simplifies file sharing across multiple devices using **Spri
 
 A responsive portfolio website showcasing my work and experience. Built with **React**, it uses **React Router** for smooth navigation and **Bootstrap** for sleek styling.
 
-Check it out here: [devdanish.in](http://devdanish.in)
+Check it out here: [devdanish.in](https://www.devdanish.in)
 
 ---
 
 ## 📫 **Connect With Me:**
 
-- LinkedIn: [Danish Javed](https://www.linkedin.com/in/danish-javed-4b9a17182)
-- Portfolio: [devdanish.in](http://devdanish.in)
+- LinkedIn: [Danish Javed](www.linkedin.com/in/devdanish)
+- Portfolio: [devdanish.in](https://www.devdanish.in)
 
 ---
 
