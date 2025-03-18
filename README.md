@@ -59,7 +59,7 @@ Check it out here: [devdanish.in](https://www.devdanish.in)
 
 ## 📫 **Connect With Me:**
 
-- LinkedIn: [Danish Javed](www.linkedin.com/in/devdanish)
+- LinkedIn: [Danish Javed](https://www.linkedin.com/in/devdanish)
 - Portfolio: [devdanish.in](https://www.devdanish.in)
 
 ---
